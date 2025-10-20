@@ -30,5 +30,5 @@ https://www.upland.me<br/>
 ## Contact me
 <a href="https://www.linkedin.com/in/julian-schmidt-0874621a9" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="julian.sch.dev@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://t.me/Julian0216" target="blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a> 
+<a href="https://t.me/julianDev0216" target="blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a> 
 
