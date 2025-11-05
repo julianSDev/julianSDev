@@ -1,5 +1,9 @@
-# 🎉👋 Welcome to my Github profile
-## Professional <b style="color: #fe9c2c;">Developer</b> ( Web & Unity Game )
+
+<h1 align="center">👋 I am</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=fe9c2c&center=true&vCenter=true&width=600&lines=Julian+Schmidt;Senior+Full-Stack+Developer;Web+|+Unity+|+Blockchain" alt="Typing SVG" />
+</p>
 
 <ul>
   <li> 💻 Experienced full stack developer with 8 years of experience, focusing on blockchain frontend technology.</li>
